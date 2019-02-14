@@ -1,0 +1,2 @@
+model_checkpoint_path: "stacked_auto_encoder.ckpt"
+all_model_checkpoint_paths: "stacked_auto_encoder.ckpt"
